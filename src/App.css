@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+img .sample {
+  padding: 2% 0%;
+}
+
+h2 {
+  font-size:2rem;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.7rem;
+  font-family: 'Playfair Display', serif;
+}
+
+.headerPhoto {
+  background-color: #F5EACB;
+  width:80%;
+  padding: 3%;
+  border-right: 8px solid black;
+  border-bottom: 8px solid black;
+}
+
+h3 {
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+
+h4 {
+  font-size:1.2rem;
+  text-align: left;
+  margin: 5% 4% 2%;
+}
