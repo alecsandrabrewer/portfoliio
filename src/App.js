@@ -18,17 +18,18 @@ function App() {
   return (
     <div className="App">
       <Container>
-      <img className='headerPhoto' src={us} width='50%' height='100%'/>
-      <Head>
-        <h1>Alecsandra Brewer</h1>
-      </Head>
-      <Background>
-      <AboutMe className='About'>
-        <h2>About Me</h2>
-        <p>I'm 24 years old and am looking for more ways to be involved in the work of the Church. I'm married to Ryan Brewer, current minister for Vacaville Church of Christ and a future student of the Southwest School of Bible Studies. I am currently a full stack web development student of Lambda School. Before I got into web development, I would create flyers and design websites for local congregations in northern California. Growing up, I always took an interest in styling and aesthetics as a 'hobby.' I would offer to help our home congregation in making advertisements for gospel meetings, singings, and fellowships. I'd also make invitations for events such as weddings, bridal and baby showers. Now it's become my absolute passion! Outside of school for web development, I try and study up on design to create a better user interface and experience.</p>
-      </AboutMe>
+        <img className='headerPhoto' src={us}/>
+        <Head>
+          <h1>Alecsandra Brewer</h1>
+        </Head>
+        <Background>
+        <AboutMe className='About'>
+          <h2>About Me</h2>
+          <p>I'm 24 years old and am looking for more ways to be involved in the work of the Church. I'm married to Ryan Brewer, current minister for Vacaville Church of Christ and a future student of the Southwest School of Bible Studies. I am currently a full stack web development student of Lambda School. Before I got into web development, I would create flyers and design websites for local congregations in northern California. Growing up, I always took an interest in styling and aesthetics as a 'hobby.' I would offer to help our home congregation in making advertisements for gospel meetings, singings, and fellowships. I'd also make invitations for events such as weddings, bridal and baby showers. Now it's become my absolute passion! Outside of school for web development, I try and study up on design to create a better user interface and experience.</p>
+        </AboutMe>
       </Background>
       </Container>
+
       <Experience className='Experience'>
         <h3>Education and Work Experience</h3>
         <p>Lambda School - Full Stack Web Development Program</p>
