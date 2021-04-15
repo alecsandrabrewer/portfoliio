@@ -12,6 +12,7 @@ import Vacaville from './img/Vacaville.png';
 import us from './img/us.jpeg';
 import floral from './img/floral.jpeg';
 import yellow from './img/yellow.jpeg';
+import treasure from './img/treasure.jpeg';
 
 
 function App() {
@@ -43,7 +44,8 @@ function App() {
           <img className='sample' src={greene} width='30%' height='100%'/>
           <img className='sample' src={beard} width='36%' height='100%'/>
           <img className='sample' src={exit} width='35%' height='100%'/>
-          <img className='sample' src={schedule}width='40%' height='100%'/>
+          <img className='sample' src={schedule} width='30%' height='100%'/>
+          <img className='sample' src={treasure} width='30%' height='100%'/> 
         </Photos>
         </Experience>
           <Websites className='Websites'>
