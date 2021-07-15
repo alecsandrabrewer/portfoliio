@@ -26,15 +26,15 @@ function App() {
         <Background>
         <AboutMe className='About'>
           <h2>About Me</h2>
-          <p>I'm 24 years old and am looking for more ways to be involved in the work of the Church. I'm married to Ryan Brewer, current minister for Vacaville Church of Christ and a future student of the Southwest School of Bible Studies. I am currently a full stack web development student of Lambda School. Before I got into web development, I would create flyers and design websites for local congregations in northern California. Growing up, I always took an interest in styling and aesthetics as a 'hobby.' I would offer to help our home congregation in making advertisements for gospel meetings, singings, and fellowships. I'd also make invitations for events such as weddings, bridal and baby showers. Now it's become my absolute passion! Outside of school for web development, I try and study up on design to create a better user interface and experience.</p>
+          <p>I'm 24 years old and am looking for more ways to be involved in the work of the Church. I'm married to Ryan Brewer, current minister for Vacaville Church of Christ and a future student of the Southwest School of Bible Studies. I am a graphic designer for WVBS and a front end web developer on the side. Growing up, I always took an interest in styling and aesthetics as a 'hobby.' Gardening and interior design have become my passions, and I would love to continue the theme of decorating and designing as I add more to my list of favorite things. </p>
         </AboutMe>
       </Background>
       </Container>
 
       <Experience className='Experience'>
         <h3>Education and Work Experience</h3>
-        <p>Lambda School - Full Stack Web Development Program</p>
-        <p>I also am taking extra courses in Udemy and studying up on books about design such as Color Theory and Typography. </p>
+        <p>Lambda School - Front End Web Development</p>
+        <p>I am big on self-teaching and love adding more to my repertoire! </p>
         <h4>A small compilation of designs I've made:</h4>
         <Photos className = 'Photos'>
           <img className='sample' src={Vacaville} width='31%'height='100%'/>
